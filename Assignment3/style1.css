@@ -1,0 +1,16 @@
+
+h1 {text-align: center;}
+table {text-align: center;}
+.abc
+    { width:100px ;
+      height:50px;
+      border: 10px;
+      background-color:rgb(34, 172, 41)
+    }
+.abc1
+    { width:50px ;
+      height:35px;
+      border: 10px;
+      background-color:rgb(51, 233, 44);
+    }
+
